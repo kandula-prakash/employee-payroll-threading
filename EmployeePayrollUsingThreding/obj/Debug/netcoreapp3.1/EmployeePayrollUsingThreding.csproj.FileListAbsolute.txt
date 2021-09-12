@@ -1,0 +1,13 @@
+C:\Users\prakash kandula\source\repos\EmployeePayrollUsingThreding\EmployeePayrollUsingThreding\bin\Debug\netcoreapp3.1\EmployeePayrollUsingThreding.exe
+C:\Users\prakash kandula\source\repos\EmployeePayrollUsingThreding\EmployeePayrollUsingThreding\bin\Debug\netcoreapp3.1\EmployeePayrollUsingThreding.deps.json
+C:\Users\prakash kandula\source\repos\EmployeePayrollUsingThreding\EmployeePayrollUsingThreding\bin\Debug\netcoreapp3.1\EmployeePayrollUsingThreding.runtimeconfig.json
+C:\Users\prakash kandula\source\repos\EmployeePayrollUsingThreding\EmployeePayrollUsingThreding\bin\Debug\netcoreapp3.1\EmployeePayrollUsingThreding.runtimeconfig.dev.json
+C:\Users\prakash kandula\source\repos\EmployeePayrollUsingThreding\EmployeePayrollUsingThreding\bin\Debug\netcoreapp3.1\EmployeePayrollUsingThreding.dll
+C:\Users\prakash kandula\source\repos\EmployeePayrollUsingThreding\EmployeePayrollUsingThreding\bin\Debug\netcoreapp3.1\EmployeePayrollUsingThreding.pdb
+C:\Users\prakash kandula\source\repos\EmployeePayrollUsingThreding\EmployeePayrollUsingThreding\obj\Debug\netcoreapp3.1\EmployeePayrollUsingThreding.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\EmployeePayrollUsingThreding\EmployeePayrollUsingThreding\obj\Debug\netcoreapp3.1\EmployeePayrollUsingThreding.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\EmployeePayrollUsingThreding\EmployeePayrollUsingThreding\obj\Debug\netcoreapp3.1\EmployeePayrollUsingThreding.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\EmployeePayrollUsingThreding\EmployeePayrollUsingThreding\obj\Debug\netcoreapp3.1\EmployeePayrollUsingThreding.csproj.CoreCompileInputs.cache
+C:\Users\prakash kandula\source\repos\EmployeePayrollUsingThreding\EmployeePayrollUsingThreding\obj\Debug\netcoreapp3.1\EmployeePayrollUsingThreding.dll
+C:\Users\prakash kandula\source\repos\EmployeePayrollUsingThreding\EmployeePayrollUsingThreding\obj\Debug\netcoreapp3.1\EmployeePayrollUsingThreding.pdb
+C:\Users\prakash kandula\source\repos\EmployeePayrollUsingThreding\EmployeePayrollUsingThreding\obj\Debug\netcoreapp3.1\EmployeePayrollUsingThreding.genruntimeconfig.cache

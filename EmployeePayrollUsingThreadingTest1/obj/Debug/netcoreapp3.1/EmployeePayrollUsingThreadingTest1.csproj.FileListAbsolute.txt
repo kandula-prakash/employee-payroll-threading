@@ -1,0 +1,4 @@
+C:\Users\prakash kandula\source\repos\EmployeePayrollUsingThreding\EmployeePayrollUsingThreadingTest1\obj\Debug\netcoreapp3.1\EmployeePayrollUsingThreadingTest1.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\EmployeePayrollUsingThreding\EmployeePayrollUsingThreadingTest1\obj\Debug\netcoreapp3.1\EmployeePayrollUsingThreadingTest1.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\EmployeePayrollUsingThreding\EmployeePayrollUsingThreadingTest1\obj\Debug\netcoreapp3.1\EmployeePayrollUsingThreadingTest1.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\EmployeePayrollUsingThreding\EmployeePayrollUsingThreadingTest1\obj\Debug\netcoreapp3.1\EmployeePayrollUsingThreadingTest1.csproj.CoreCompileInputs.cache
